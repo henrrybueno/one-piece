@@ -24,10 +24,6 @@ A aplicação utiliza:
 * **Compartilhe:** Mostre para seus amigos e descubra quem sabe mais de One Piece!
 * **Contribua:** Ajude a melhorar a aplicação!
 
-### Meus personagens favoritos: 
-![Luffy animado]([link para um gif do Luffy]) 
-Eu adoro a determinação do Luffy e a inteligência do Zoro. E você, quem é o seu favorito?
-
 **Vamos juntos dominar o Grand Line!** 
 
 **Tecnologias:** HTML, CSS, JavaScript, JSON
