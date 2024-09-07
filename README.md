@@ -28,6 +28,6 @@ A aplicação utiliza:
 
 **Tecnologias:** HTML, CSS, JavaScript, JSON
 
-**Autor:** [Seu nome]
+**Autor:** Henrry Bueno
 
 **#OnePiece #JavaScript #HTML #CSS #DesenvolvedorWeb**
